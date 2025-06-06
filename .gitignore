@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS junk
+.DS_Store
+
+# npm debug logs
+npm-debug.log*
+
+# Sensitive keys or credentials (if any)
+secrets/
